@@ -1,2 +1,2 @@
 # ProgIII-SI
-Códigos realizados na disciplina de Programação 3
+Códigos da disciplina de Programação 3
